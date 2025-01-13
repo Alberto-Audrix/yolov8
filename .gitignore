@@ -1,3 +1,5 @@
 runs/
 dataset_sementara/
 image_list/
+datasets/*
+test_dataset/
